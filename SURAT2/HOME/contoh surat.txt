@@ -1,0 +1,65 @@
+1. Surat Resmi:
+	Surat Permohonan
+	Surat Pemberitahuan
+	Surat Penawaran
+	Surat Pengunduran Diri
+	Surat Izin
+
+2. Surat Bisnis:
+	Surat Penawaran Produk atau Jasa
+	Surat Pesanan
+	Surat Pemesanan
+	Surat Kontrak
+
+3. Surat Pribadi:
+	Surat Cinta
+	Surat Ucapan Selamat
+	Surat Undangan
+	Surat Pamitan
+
+4. Surat Lamaran Pekerjaan:
+	Surat Pengantar Lamaran Kerja
+	Surat Daftar Riwayat Hidup (CV)
+	Surat Rekomendasi
+
+5. Surat Izin atau Permohonan:
+	Surat Izin Cuti
+	Surat Permohonan Beasiswa
+	Surat Permohonan Sponsor
+
+6. Surat Resmi Pemerintah:
+	Surat Keputusan
+	Surat Perintah
+	Surat Edaran
+	Surat Kuasa
+
+7. Surat Berita:
+	Surat Kabar
+	Surat Dinas
+
+8. Surat Perjanjian:
+	Surat Perjanjian Sewa
+	Surat Perjanjian Kerjasama
+	Surat Perjanjian Jual Beli
+
+9. Surat Resmi Sekolah atau Universitas:
+	Surat Keterangan
+	Surat Pemberitahuan Rapat Orang Tua
+	Surat Kenaikan Kelas
+
+10. Surat Pengaduan atau Keluhan:
+	Surat Keluhan Layanan Pelanggan
+	Surat Pengaduan Kualitas Produk
+
+11. Surat Tugas atau Perintah:
+	Surat Tugas Dinas
+	Surat Perintah Kerja
+
+12. Surat Pemberitahuan Perubahan Informasi:
+	Surat Pemberitahuan Perubahan Alamat
+	Surat Pemberitahuan Perubahan Nama
+
+13. Surat Undangan:
+	Undangan Resmi Acara
+	Undangan Pernikahan
+	Undangan Seminar
